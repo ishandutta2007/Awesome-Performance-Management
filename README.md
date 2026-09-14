@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Performance-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Performance-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Performance-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Performance-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Performance-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Performance-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Performance-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Performance-Management?style=flat-square&color=orange" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Performance-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -83,7 +83,7 @@ Looking to avoid vendor lock-in, self-host internal employee data, or build a cu
 
 Repositories are arranged in **descending order by GitHub stargazers**:
 
-| Repository | GitHub Stars | License | Primary Tech Stack | Description & Performance Scope |
+| Repository | GitHub_Stars | License | Primary Tech Stack | Description & Performance Scope |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | Full-suite enterprise ERP with dedicated **Appraisals and Employee Performance** modules supporting periodic review cycles, 360 feedback surveys, and goal management. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, JavaScript, MariaDB | Complete open-source enterprise suite featuring structured performance appraisals, goal assignment, employee evaluation criteria, and scorecards. |
